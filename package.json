@@ -32,6 +32,13 @@
         "Programming Languages"
     ],
     "contributes": {
+        "iconThemes": [
+            {
+                "id": "dev-v",
+                "label": "V Icon",
+                "path": "icons/v-icon-theme.json"
+            }
+        ],
         "themes": [
             {
                 "id": "dev-light-v",
